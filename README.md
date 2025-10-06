@@ -22,7 +22,7 @@ A comprehensive AI-powered personal finance dashboard that analyzes spending pat
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Streamlit     │    │   Multi-Agent   │    │   RAG System    │
 │   Dashboard     │◄──►│   AI System     │◄──►│  (ChromaDB +    │
-│                 │    │                 │    │ OpenAI + GROQ)  │
+│                 │    │                 │    │     GROQ)       │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                       │                       │
          ▼                       ▼                       ▼
@@ -131,7 +131,7 @@ The system comes with pre-generated sample data including:
 
 - **Vector Database**: ChromaDB for semantic search
 - **Knowledge Base**: 10+ financial advice documents
-- **Embeddings**: OpenAI text-embedding-ada-002 (with fallback)
+- **Embeddings**: text-embedding-ada-002 (with fallback)
 - **LLM**: GROQ for response generation
 
 ### Multi-Agent Coordination
@@ -185,7 +185,7 @@ The system comes with pre-generated sample data including:
 streamlit==1.28.1
 pandas==2.0.3
 plotly==5.17.0
-openai==1.3.5
+groq==0.32.0
 chromadb==0.4.15
 scikit-learn==1.3.2
 requests==2.31.0
