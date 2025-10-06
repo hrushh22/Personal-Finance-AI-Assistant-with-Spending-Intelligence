@@ -50,7 +50,7 @@ A comprehensive AI-powered personal finance dashboard that analyzes spending pat
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <repo-url>
    ```
 
 2. **Run the automated setup**
