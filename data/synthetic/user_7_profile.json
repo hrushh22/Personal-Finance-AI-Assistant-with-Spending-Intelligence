@@ -1,0 +1,12 @@
+{
+  "user_id": 7,
+  "username": "garycosta",
+  "email": "keith22@example.org",
+  "monthly_income": 5999.0,
+  "financial_goals": "Vacation",
+  "total_transactions": 465,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-31"
+  }
+}

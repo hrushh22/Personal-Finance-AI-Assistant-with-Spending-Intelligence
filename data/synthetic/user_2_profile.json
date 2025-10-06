@@ -1,0 +1,12 @@
+{
+  "user_id": 2,
+  "username": "dpierce",
+  "email": "robertcook@example.com",
+  "monthly_income": 7014.0,
+  "financial_goals": "House Down Payment",
+  "total_transactions": 432,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-31"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "user_id": 9,
+  "username": "afletcher",
+  "email": "lisawilson@example.org",
+  "monthly_income": 6548.0,
+  "financial_goals": "Retirement",
+  "total_transactions": 463,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-31"
+  }
+}

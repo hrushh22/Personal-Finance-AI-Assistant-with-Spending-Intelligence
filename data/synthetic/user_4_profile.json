@@ -1,0 +1,12 @@
+{
+  "user_id": 4,
+  "username": "michelleyoung",
+  "email": "pamelamorgan@example.net",
+  "monthly_income": 7723.0,
+  "financial_goals": "Emergency Fund",
+  "total_transactions": 473,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-31"
+  }
+}

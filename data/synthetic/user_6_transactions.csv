@@ -1,0 +1,454 @@
+date,amount,category,subcategory,description,merchant,transaction_type,user_id
+2024-01-01,2610.11,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-01-01,32.44,Shopping,Personal Care,Retail shopping,CVS,expense,6
+2024-01-01,41.78,Bank Fee,Bank Fee,Next rule memory argue.,"Stewart, Mays and Burke",expense,6
+2024-01-02,48.1,Transportation,Parking,Car payment,Metro,expense,6
+2024-01-02,3.2,Entertainment,Sports,Concert,Netflix,expense,6
+2024-01-05,19.04,Food & Dining,Fast Food,Grocery shopping,Chipotle,expense,6
+2024-01-06,29.18,Shopping,Electronics,Retail shopping,Walgreens,expense,6
+2024-01-09,15.05,Food & Dining,Delivery,Coffee,DoorDash,expense,6
+2024-01-09,14.42,Other,Other,Keep fish east.,"Crawford, Griffin and Cruz",expense,6
+2024-01-11,1024.73,Housing,Rent,Property maintenance,Property Manager,expense,6
+2024-01-13,3.13,Entertainment,Music,Concert,Spotify,expense,6
+2024-01-13,93.87,Healthcare,Pharmacy,Prescription,CVS Pharmacy,expense,6
+2024-01-13,5.79,Subscription,Subscription,Cost sell seem.,"Clark, Salazar and Kennedy",expense,6
+2024-01-14,26.27,Transportation,Uber/Lyft,Car payment,Uber,expense,6
+2024-01-14,27.15,Transportation,Car Payment,Gas fill-up,Chevron,expense,6
+2024-01-15,2624.34,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-01-15,26.46,Shopping,Clothing,Retail shopping,Target,expense,6
+2024-01-15,42.02,Other,Other,Free behind who.,"Hamilton, Reese and Peterson",expense,6
+2024-01-15,45.28,Bank Fee,Bank Fee,Table age.,Campbell LLC,expense,6
+2024-01-16,31.53,Food & Dining,Groceries,Lunch,DoorDash,expense,6
+2024-01-16,20.26,Shopping,Clothing,Retail shopping,Best Buy,expense,6
+2024-01-16,5.7,ATM Fee,ATM Fee,Just possible.,Harris Inc,expense,6
+2024-01-17,1062.38,Housing,Mortgage,Mortgage payment,Bank of America,expense,6
+2024-01-20,119.5,Utilities,Electric,Phone bill,PG&E,expense,6
+2024-01-21,10.01,Transportation,Parking,Car payment,Metro,expense,6
+2024-01-21,115.09,Healthcare,Insurance Premium,Doctor visit,Dental Associates,expense,6
+2024-01-21,35.32,Subscription,Subscription,World try drop Congress.,"Wells, Park and Lopez",expense,6
+2024-01-22,5.31,ATM Fee,ATM Fee,Agreement game.,"Schultz, Reynolds and Williams",expense,6
+2024-01-24,30.03,Transportation,Public Transit,Car payment,Chevron,expense,6
+2024-01-24,134.75,Travel,Car Rental,Vacation expense,Hertz,expense,6
+2024-01-24,40.0,Bank Fee,Bank Fee,Out discover at medical color.,"Todd, Washington and Turner",expense,6
+2024-01-24,11.53,ATM Fee,ATM Fee,Laugh television close factor.,"Mclaughlin, Robinson and Clayton",expense,6
+2024-01-25,31.71,Shopping,Clothing,Personal items,Macys,expense,6
+2024-01-26,12.71,Entertainment,Streaming,Concert,Steam,expense,6
+2024-01-28,18.63,Subscription,Subscription,Example official its.,Stevens-Marquez,expense,6
+2024-01-29,48.05,Bank Fee,Bank Fee,System ever hotel near.,Johnson-Burns,expense,6
+2024-01-29,39.65,Subscription,Subscription,Main glass that.,Johnson Inc,expense,6
+2024-01-30,1105.66,Housing,HOA Fees,Mortgage payment,Bank of America,expense,6
+2024-01-30,11.75,Food & Dining,Fast Food,Coffee,Chipotle,expense,6
+2024-01-30,8.21,Transportation,Public Transit,Car payment,Lyft,expense,6
+2024-01-30,18.94,Entertainment,Sports,Concert,Spotify,expense,6
+2024-01-30,39.68,ATM Fee,ATM Fee,Boy hit.,French-Thompson,expense,6
+2024-02-01,2638.61,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-02-01,40.21,Subscription,Subscription,Fund all way ok.,Ramsey-Burns,expense,6
+2024-02-03,7.96,Food & Dining,Groceries,Coffee,Starbucks,expense,6
+2024-02-04,10.6,Food & Dining,Fast Food,Lunch,Starbucks,expense,6
+2024-02-05,28.64,ATM Fee,ATM Fee,According position main.,"Jackson, Peterson and Harris",expense,6
+2024-02-07,160.47,Utilities,Internet,Internet bill,AT&T,expense,6
+2024-02-07,19.39,Entertainment,Sports,Movie tickets,Steam,expense,6
+2024-02-08,28.13,Food & Dining,Coffee,Coffee,Uber Eats,expense,6
+2024-02-08,84.24,Healthcare,Doctor Visit,Insurance,Dental Associates,expense,6
+2024-02-09,1051.16,Housing,Property Tax,Rent payment,Home Depot,expense,6
+2024-02-09,15.87,Food & Dining,Groceries,Lunch,Chipotle,expense,6
+2024-02-10,10.71,Transportation,Uber/Lyft,Parking fee,Uber,expense,6
+2024-02-10,17.74,Other,Other,Western suffer deal mean various.,Lopez-Payne,expense,6
+2024-02-12,131.09,Healthcare,Pharmacy,Doctor visit,Dental Associates,expense,6
+2024-02-15,2795.34,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-02-16,125.97,Utilities,Electric,Phone bill,Verizon,expense,6
+2024-02-17,21.08,Shopping,Clothing,Online purchase,Walgreens,expense,6
+2024-02-17,34.13,Subscription,Subscription,Stage security table push little.,"Cox, Kidd and Harris",expense,6
+2024-02-18,101.81,Utilities,Gas,Internet bill,AT&T,expense,6
+2024-02-18,18.44,Other,Other,Mother product name.,"Simmons, Davis and Russell",expense,6
+2024-02-22,106.0,Healthcare,Dental,Doctor visit,Kaiser Permanente,expense,6
+2024-02-24,23.46,Food & Dining,Restaurants,Lunch,Chipotle,expense,6
+2024-02-24,39.32,Transportation,Gas,Car payment,Metro,expense,6
+2024-02-24,28.71,Shopping,Home Goods,Online purchase,Walgreens,expense,6
+2024-02-25,37.7,Transportation,Uber/Lyft,Parking fee,Chevron,expense,6
+2024-02-27,17.43,Shopping,Electronics,Retail shopping,Best Buy,expense,6
+2024-02-28,11.42,Entertainment,Movies,Movie tickets,PlayStation Store,expense,6
+2024-02-29,6.15,Food & Dining,Delivery,Lunch,Uber Eats,expense,6
+2024-02-29,48.21,Transportation,Car Payment,Car payment,Uber,expense,6
+2024-02-29,6.16,Entertainment,Movies,Concert,PlayStation Store,expense,6
+2024-03-01,2812.23,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-03-03,30.8,Food & Dining,Delivery,Grocery shopping,Safeway,expense,6
+2024-03-03,87.02,Healthcare,Doctor Visit,Doctor visit,Dental Associates,expense,6
+2024-03-03,16.82,Bank Fee,Bank Fee,Community consumer than.,"Cabrera, Fields and Holmes",expense,6
+2024-03-04,51.27,Transportation,Uber/Lyft,Gas fill-up,Chevron,expense,6
+2024-03-04,35.04,Other,Other,Rest world program down eat.,"Anderson, Jones and Hogan",expense,6
+2024-03-05,13.67,Shopping,Home Goods,Online purchase,Target,expense,6
+2024-03-06,115.98,Healthcare,Doctor Visit,Insurance,Kaiser Permanente,expense,6
+2024-03-08,124.74,Utilities,Water,Phone bill,AT&T,expense,6
+2024-03-11,17.23,Food & Dining,Fast Food,Dinner,McDonalds,expense,6
+2024-03-11,28.39,Food & Dining,Delivery,Lunch,Whole Foods,expense,6
+2024-03-11,8.42,Entertainment,Gaming,Movie tickets,Spotify,expense,6
+2024-03-11,5.01,Entertainment,Movies,Subscription,Steam,expense,6
+2024-03-11,97.91,Healthcare,Insurance Premium,Doctor visit,Dental Associates,expense,6
+2024-03-12,21.22,ATM Fee,ATM Fee,Paper performance everyone party federal.,Williamson-Nelson,expense,6
+2024-03-13,16.45,Other,Other,Message until baby simple ahead.,"Cook, Cortez and Herrera",expense,6
+2024-03-15,2795.73,Salary,Salary,Monthly salary payment,Tech Corp,income,6
+2024-03-15,6.77,Shopping,Books,Personal items,Walgreens,expense,6
+2024-03-16,26.71,Food & Dining,Delivery,Coffee,Whole Foods,expense,6
+2024-03-17,6.0,Entertainment,Sports,Subscription,PlayStation Store,expense,6
+2024-03-17,24.21,Subscription,Subscription,Sing stuff.,"Blake, Clarke and Taylor",expense,6
+2024-03-18,27.08,Shopping,Electronics,Personal items,Walgreens,expense,6
+2024-03-18,14.69,Other,Other,Particularly far responsibility.,Black and Sons,expense,6
+2024-03-19,1057.01,Housing,Property Tax,Rent payment,Wells Fargo,expense,6
+2024-03-19,16.55,Food & Dining,Delivery,Dinner,Chipotle,expense,6
+2024-03-21,8.97,Bank Fee,Bank Fee,Wish board beat.,Thompson-Adams,expense,6
+2024-03-21,39.78,Bank Fee,Bank Fee,Road meet fire size.,Brown Ltd,expense,6
+2024-03-22,37.92,Transportation,Car Payment,Car payment,Shell,expense,6
+2024-03-23,19.95,Entertainment,Music,Movie tickets,Spotify,expense,6
+2024-03-23,13.2,Bank Fee,Bank Fee,Allow own toward.,"Simmons, Peters and Molina",expense,6
+2024-03-23,41.07,Other,Other,Well blue.,Hill-Henderson,expense,6
+2024-03-24,1084.01,Housing,HOA Fees,Mortgage payment,Wells Fargo,expense,6
+2024-03-25,136.22,Utilities,Gas,Phone bill,AT&T,expense,6
+2024-03-25,145.96,Utilities,Gas,Phone bill,AT&T,expense,6
+2024-03-27,26.26,Other,Other,Including lose.,"Blackwell, Herrera and Anderson",expense,6
+2024-03-28,47.16,Other,Other,Dark generation rich.,Thomas-Macias,expense,6
+2024-03-29,32.67,Food & Dining,Groceries,Grocery shopping,Chipotle,expense,6
+2024-03-31,8.83,Transportation,Car Payment,Car payment,Shell,expense,6
+2024-03-31,39.03,Bank Fee,Bank Fee,International during.,"Kelley, Thomas and Gibbs",expense,6
+2024-03-31,28.67,Other,Other,Day receive subject.,Hamilton LLC,expense,6
+2024-04-01,2626.49,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-04-02,48.31,Other,Other,House upon early city improve.,"Ramirez, Gonzalez and Massey",expense,6
+2024-04-02,16.03,ATM Fee,ATM Fee,Shake think agree.,Hernandez LLC,expense,6
+2024-04-03,8.43,Entertainment,Music,Movie tickets,Netflix,expense,6
+2024-04-04,22.59,ATM Fee,ATM Fee,Various music feel.,Schaefer-Duncan,expense,6
+2024-04-05,132.76,Utilities,Internet,Internet bill,Water Company,expense,6
+2024-04-05,47.06,Other,Other,South believe customer be.,Williams-Leonard,expense,6
+2024-04-06,27.33,Shopping,Electronics,Retail shopping,Target,expense,6
+2024-04-07,27.12,Transportation,Gas,Parking fee,Chevron,expense,6
+2024-04-07,46.52,Other,Other,Education art.,Carr-Mullins,expense,6
+2024-04-08,24.18,Transportation,Uber/Lyft,Gas fill-up,Chevron,expense,6
+2024-04-08,35.61,Subscription,Subscription,Sense staff find trip.,Potts Inc,expense,6
+2024-04-08,31.35,Bank Fee,Bank Fee,Condition without receive.,Bell-Waters,expense,6
+2024-04-09,18.95,Transportation,Car Payment,Car payment,Shell,expense,6
+2024-04-09,27.6,Shopping,Home Goods,Retail shopping,Target,expense,6
+2024-04-10,24.77,Transportation,Uber/Lyft,Gas fill-up,Lyft,expense,6
+2024-04-11,34.48,Transportation,Parking,Car payment,Honda Finance,expense,6
+2024-04-13,18.71,Entertainment,Gaming,Concert,Steam,expense,6
+2024-04-15,2763.13,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-04-16,12.08,Food & Dining,Groceries,Coffee,Uber Eats,expense,6
+2024-04-16,141.42,Healthcare,Doctor Visit,Prescription,Dental Associates,expense,6
+2024-04-17,29.29,Food & Dining,Fast Food,Coffee,Whole Foods,expense,6
+2024-04-19,28.97,Food & Dining,Delivery,Lunch,Whole Foods,expense,6
+2024-04-20,1022.6,Housing,Rent,Rent payment,Landlord,expense,6
+2024-04-20,32.71,Shopping,Books,Retail shopping,Target,expense,6
+2024-04-22,33.63,Food & Dining,Groceries,Coffee,Whole Foods,expense,6
+2024-04-22,138.44,Healthcare,Doctor Visit,Insurance,Kaiser Permanente,expense,6
+2024-04-23,1061.6,Housing,Mortgage,Property maintenance,Landlord,expense,6
+2024-04-23,6.88,Food & Dining,Groceries,Coffee,Safeway,expense,6
+2024-04-23,11.9,Bank Fee,Bank Fee,Tell respond.,Robinson Group,expense,6
+2024-04-24,10.65,Other,Other,Civil community little forward.,Gardner Ltd,expense,6
+2024-04-25,14.3,Entertainment,Movies,Movie tickets,Netflix,expense,6
+2024-04-26,132.12,Utilities,Phone,Phone bill,Water Company,expense,6
+2024-04-28,46.65,Subscription,Subscription,Others hard investment prevent.,Lawson-Smith,expense,6
+2024-04-29,24.98,Food & Dining,Restaurants,Lunch,Safeway,expense,6
+2024-04-29,14.52,Entertainment,Sports,Concert,Steam,expense,6
+2024-04-30,150.19,Utilities,Phone,Phone bill,AT&T,expense,6
+2024-04-30,9.28,Subscription,Subscription,Professor second morning.,"Caldwell, Davis and Perez",expense,6
+2024-04-30,48.83,ATM Fee,ATM Fee,Election realize.,Gonzalez and Sons,expense,6
+2024-05-01,2677.28,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-05-01,148.05,Utilities,Phone,Phone bill,AT&T,expense,6
+2024-05-03,32.27,Shopping,Home Goods,Online purchase,Best Buy,expense,6
+2024-05-04,30.89,Other,Other,Show give too.,Brooks-Spencer,expense,6
+2024-05-05,45.89,Bank Fee,Bank Fee,Eight officer simple movie.,Mora-Gilmore,expense,6
+2024-05-06,16.25,Shopping,Books,Retail shopping,Walgreens,expense,6
+2024-05-08,6.24,ATM Fee,ATM Fee,Soldier anyone.,Sanchez Ltd,expense,6
+2024-05-09,1069.24,Housing,HOA Fees,Mortgage payment,Landlord,expense,6
+2024-05-09,9.77,Shopping,Clothing,Retail shopping,Walgreens,expense,6
+2024-05-12,39.32,Transportation,Car Payment,Parking fee,Honda Finance,expense,6
+2024-05-12,31.13,Other,Other,Few public wind over.,Lucas Group,expense,6
+2024-05-15,2652.4,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-05-15,1857.63,Freelance,Freelance,Freelance project payment,Client B,income,6
+2024-05-15,53.28,Transportation,Public Transit,Gas fill-up,Metro,expense,6
+2024-05-15,28.52,Shopping,Books,Personal items,Best Buy,expense,6
+2024-05-15,48.11,Other,Other,Wonder food off.,"Morris, Medina and Juarez",expense,6
+2024-05-16,40.66,Transportation,Car Payment,Gas fill-up,Lyft,expense,6
+2024-05-16,23.52,Shopping,Electronics,Personal items,Amazon,expense,6
+2024-05-18,16.04,Food & Dining,Restaurants,Grocery shopping,DoorDash,expense,6
+2024-05-19,7.15,Shopping,Clothing,Retail shopping,CVS,expense,6
+2024-05-22,19.11,Food & Dining,Groceries,Coffee,Starbucks,expense,6
+2024-05-24,7.56,Entertainment,Sports,Movie tickets,AMC Theaters,expense,6
+2024-05-26,9.83,Entertainment,Gaming,Subscription,Steam,expense,6
+2024-05-26,102.18,Healthcare,Dental,Insurance,Dental Associates,expense,6
+2024-05-27,124.85,Utilities,Electric,Electric bill,PG&E,expense,6
+2024-05-27,83.33,Healthcare,Doctor Visit,Prescription,CVS Pharmacy,expense,6
+2024-05-27,25.87,Other,Other,Military part star want.,"Williams, Banks and Browning",expense,6
+2024-05-28,47.16,Transportation,Gas,Car payment,Shell,expense,6
+2024-05-28,35.49,Bank Fee,Bank Fee,All military war.,"Hernandez, Phillips and Suarez",expense,6
+2024-05-29,47.68,Transportation,Car Payment,Gas fill-up,Chevron,expense,6
+2024-05-29,15.78,Transportation,Gas,Gas fill-up,Metro,expense,6
+2024-05-29,8.53,Entertainment,Sports,Concert,Netflix,expense,6
+2024-05-30,31.09,ATM Fee,ATM Fee,Common throughout of newspaper.,Brown Inc,expense,6
+2024-05-31,1107.37,Housing,HOA Fees,Property maintenance,Bank of America,expense,6
+2024-05-31,30.96,Food & Dining,Delivery,Dinner,McDonalds,expense,6
+2024-06-01,2693.27,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-06-01,31.69,Shopping,Clothing,Personal items,Target,expense,6
+2024-06-03,5.41,Bank Fee,Bank Fee,Never ten could finally.,"Benjamin, Fisher and Duncan",expense,6
+2024-06-04,138.66,Utilities,Internet,Phone bill,Verizon,expense,6
+2024-06-05,29.19,Transportation,Parking,Parking fee,Uber,expense,6
+2024-06-06,26.18,Food & Dining,Groceries,Lunch,Whole Foods,expense,6
+2024-06-07,30.18,Food & Dining,Fast Food,Dinner,Uber Eats,expense,6
+2024-06-07,49.25,Transportation,Uber/Lyft,Gas fill-up,Metro,expense,6
+2024-06-08,26.55,Other,Other,Eye gas.,Collins-Perez,expense,6
+2024-06-10,40.19,Subscription,Subscription,Seem pattern minute his beyond.,"Stewart, Hopkins and Miller",expense,6
+2024-06-11,16.78,Entertainment,Streaming,Movie tickets,Spotify,expense,6
+2024-06-12,21.51,Subscription,Subscription,Speech forget least another agent.,Lee-Patterson,expense,6
+2024-06-14,10.57,Entertainment,Gaming,Subscription,PlayStation Store,expense,6
+2024-06-14,46.83,Bank Fee,Bank Fee,Fact suffer education foreign.,"Christian, Ellis and Rush",expense,6
+2024-06-15,2557.9,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-06-15,1663.59,Freelance,Freelance,Freelance project payment,Client B,income,6
+2024-06-15,1125.98,Housing,Maintenance,Rent payment,Property Manager,expense,6
+2024-06-15,18.55,Entertainment,Gaming,Concert,Spotify,expense,6
+2024-06-17,1034.62,Housing,Maintenance,Rent payment,Landlord,expense,6
+2024-06-17,26.79,Transportation,Uber/Lyft,Gas fill-up,Metro,expense,6
+2024-06-18,38.03,Transportation,Gas,Gas fill-up,Metro,expense,6
+2024-06-20,49.33,Transportation,Public Transit,Car payment,Chevron,expense,6
+2024-06-20,11.17,Entertainment,Streaming,Subscription,Steam,expense,6
+2024-06-20,20.52,Bank Fee,Bank Fee,Issue day answer imagine.,"Pierce, Houston and Hall",expense,6
+2024-06-20,15.12,Bank Fee,Bank Fee,Girl throughout these try.,Nixon Inc,expense,6
+2024-06-20,23.97,Bank Fee,Bank Fee,How power begin final.,Hughes-Williams,expense,6
+2024-06-21,20.89,Food & Dining,Restaurants,Coffee,DoorDash,expense,6
+2024-06-22,11.99,Shopping,Electronics,Personal items,Macys,expense,6
+2024-06-22,16.87,Other,Other,Bank kid find.,Phillips PLC,expense,6
+2024-06-23,44.92,Bank Fee,Bank Fee,Staff nor security pressure environment.,Erickson-Hickman,expense,6
+2024-06-25,35.47,Food & Dining,Groceries,Coffee,Uber Eats,expense,6
+2024-06-26,27.3,Other,Other,Alone reveal less thus difficult.,Mora PLC,expense,6
+2024-06-27,12.42,Shopping,Home Goods,Personal items,Best Buy,expense,6
+2024-06-28,121.63,Healthcare,Insurance Premium,Prescription,CVS Pharmacy,expense,6
+2024-06-29,1106.98,Housing,Rent,Rent payment,Home Depot,expense,6
+2024-06-29,28.45,Subscription,Subscription,Gun none.,Johnson Inc,expense,6
+2024-06-29,19.87,Other,Other,Look condition agent by.,"Moore, Campbell and Serrano",expense,6
+2024-06-30,27.42,Food & Dining,Groceries,Lunch,McDonalds,expense,6
+2024-06-30,39.27,Other,Other,Share college.,Schaefer-Edwards,expense,6
+2024-07-01,2660.74,Salary,Salary,Monthly salary payment,Tech Corp,income,6
+2024-07-02,20.38,Food & Dining,Coffee,Lunch,Starbucks,expense,6
+2024-07-03,11.24,Bank Fee,Bank Fee,Author network.,"Stevenson, Williams and Meyer",expense,6
+2024-07-08,1061.5,Housing,Mortgage,Property maintenance,Landlord,expense,6
+2024-07-09,32.33,Food & Dining,Delivery,Coffee,Chipotle,expense,6
+2024-07-11,28.14,Transportation,Gas,Parking fee,Uber,expense,6
+2024-07-11,117.87,Healthcare,Doctor Visit,Insurance,Dental Associates,expense,6
+2024-07-12,9.05,Entertainment,Streaming,Concert,Netflix,expense,6
+2024-07-14,1119.59,Housing,HOA Fees,Property maintenance,Bank of America,expense,6
+2024-07-14,36.41,Food & Dining,Delivery,Grocery shopping,Whole Foods,expense,6
+2024-07-14,20.91,Shopping,Books,Online purchase,Walgreens,expense,6
+2024-07-15,2776.42,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-07-15,514.95,Freelance,Freelance,Freelance project payment,Client B,income,6
+2024-07-15,3.43,Entertainment,Gaming,Subscription,Steam,expense,6
+2024-07-16,18.78,Transportation,Uber/Lyft,Gas fill-up,Uber,expense,6
+2024-07-16,50.87,Transportation,Gas,Car payment,Chevron,expense,6
+2024-07-16,10.65,Shopping,Electronics,Retail shopping,CVS,expense,6
+2024-07-16,14.73,ATM Fee,ATM Fee,Thousand here religious wide international.,"Robinson, Stevens and Harvey",expense,6
+2024-07-17,119.92,Utilities,Gas,Electric bill,Verizon,expense,6
+2024-07-18,34.41,Transportation,Parking,Car payment,Lyft,expense,6
+2024-07-18,9.82,Bank Fee,Bank Fee,Worker better according pass.,Powell-Mccall,expense,6
+2024-07-19,12.52,Entertainment,Gaming,Concert,AMC Theaters,expense,6
+2024-07-20,14.58,Food & Dining,Restaurants,Grocery shopping,Chipotle,expense,6
+2024-07-21,5.06,Shopping,Electronics,Personal items,Walgreens,expense,6
+2024-07-24,18.21,Shopping,Electronics,Personal items,Target,expense,6
+2024-07-25,33.92,Bank Fee,Bank Fee,Alone nation defense.,"Smith, Gray and Cooke",expense,6
+2024-07-26,11.89,Entertainment,Movies,Subscription,Spotify,expense,6
+2024-07-26,137.4,Healthcare,Pharmacy,Doctor visit,Dental Associates,expense,6
+2024-07-27,11.48,Shopping,Clothing,Online purchase,CVS,expense,6
+2024-07-28,40.07,Subscription,Subscription,Light thank effort physical.,"Conley, Sanders and Campos",expense,6
+2024-07-29,5.71,Food & Dining,Groceries,Dinner,DoorDash,expense,6
+2024-07-29,19.42,Entertainment,Gaming,Movie tickets,AMC Theaters,expense,6
+2024-07-31,1064.0,Housing,HOA Fees,Rent payment,Landlord,expense,6
+2024-07-31,33.31,Transportation,Parking,Gas fill-up,Shell,expense,6
+2024-07-31,20.59,Shopping,Home Goods,Online purchase,Walgreens,expense,6
+2024-08-01,2820.38,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-08-01,36.16,ATM Fee,ATM Fee,Mother training all man.,"Perez, Cook and Sanchez",expense,6
+2024-08-02,20.31,ATM Fee,ATM Fee,Say source leave.,Hudson LLC,expense,6
+2024-08-03,17.85,Subscription,Subscription,Dark career space.,"Franklin, Rodriguez and Caldwell",expense,6
+2024-08-03,13.78,Bank Fee,Bank Fee,Yes five pull house.,"Davis, Young and Mendoza",expense,6
+2024-08-04,1071.8,Housing,HOA Fees,Property maintenance,Home Depot,expense,6
+2024-08-04,17.64,Food & Dining,Coffee,Lunch,Safeway,expense,6
+2024-08-04,5.43,Entertainment,Music,Movie tickets,PlayStation Store,expense,6
+2024-08-07,8.05,Bank Fee,Bank Fee,Work southern accept foreign.,"Wolf, Reeves and Bowen",expense,6
+2024-08-08,141.98,Healthcare,Insurance Premium,Insurance,Dental Associates,expense,6
+2024-08-08,21.87,Other,Other,Whatever matter however up.,Smith and Sons,expense,6
+2024-08-08,27.3,ATM Fee,ATM Fee,Fast record painting economic live.,Bentley-Ortega,expense,6
+2024-08-10,6.36,Entertainment,Streaming,Concert,PlayStation Store,expense,6
+2024-08-13,113.83,Utilities,Phone,Internet bill,PG&E,expense,6
+2024-08-15,2652.91,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-08-15,37.25,Transportation,Uber/Lyft,Parking fee,Honda Finance,expense,6
+2024-08-15,48.23,Transportation,Car Payment,Car payment,Honda Finance,expense,6
+2024-08-17,10.73,Food & Dining,Restaurants,Grocery shopping,Starbucks,expense,6
+2024-08-17,15.151815777428759,Shopping,Home Goods,Personal items,Target,expense,6
+2024-08-17,128.14,Healthcare,Insurance Premium,Insurance,Kaiser Permanente,expense,6
+2024-08-19,26.98,Food & Dining,Fast Food,Grocery shopping,Chipotle,expense,6
+2024-08-19,20.66,Bank Fee,Bank Fee,Article edge.,"Luna, Tucker and Curtis",expense,6
+2024-08-20,39.85723683236889,Shopping,Electronics,Online purchase,Best Buy,expense,6
+2024-08-21,19.38,Entertainment,Streaming,Concert,AMC Theaters,expense,6
+2024-08-24,1054.2,Housing,Rent,Property maintenance,Wells Fargo,expense,6
+2024-08-24,11.36,Food & Dining,Restaurants,Coffee,Whole Foods,expense,6
+2024-08-24,3.23,Entertainment,Streaming,Concert,PlayStation Store,expense,6
+2024-08-25,9.65,Subscription,Subscription,Term skill general check list.,Stevenson-Burns,expense,6
+2024-08-26,25.1,Transportation,Uber/Lyft,Gas fill-up,Metro,expense,6
+2024-08-27,39.617132996029326,Shopping,Clothing,Online purchase,Target,expense,6
+2024-08-28,22.670856968062715,Shopping,Clothing,Personal items,Macys,expense,6
+2024-08-29,42.37,Transportation,Uber/Lyft,Car payment,Metro,expense,6
+2024-08-30,17.2,Entertainment,Streaming,Concert,PlayStation Store,expense,6
+2024-09-01,2604.1,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-09-01,30.98,Transportation,Parking,Parking fee,Chevron,expense,6
+2024-09-03,1077.96,Housing,Mortgage,Rent payment,Property Manager,expense,6
+2024-09-03,35.4,Subscription,Subscription,Allow special.,Davis and Sons,expense,6
+2024-09-04,1054.07,Housing,Mortgage,Mortgage payment,Bank of America,expense,6
+2024-09-04,35.31,Food & Dining,Groceries,Lunch,Chipotle,expense,6
+2024-09-04,6.38,Food & Dining,Restaurants,Coffee,DoorDash,expense,6
+2024-09-04,26.52,Bank Fee,Bank Fee,Fire perhaps consumer think.,Foster LLC,expense,6
+2024-09-05,26.72,ATM Fee,ATM Fee,Though keep middle.,Greene PLC,expense,6
+2024-09-06,185.52,Utilities,Phone,Phone bill,PG&E,expense,6
+2024-09-08,48.78,Subscription,Subscription,Newspaper upon use rate likely.,Stuart-Mitchell,expense,6
+2024-09-08,20.14,Subscription,Subscription,About born form visit age.,Allen LLC,expense,6
+2024-09-09,15.16,Entertainment,Gaming,Concert,Spotify,expense,6
+2024-09-10,16.68,Entertainment,Music,Concert,Spotify,expense,6
+2024-09-12,46.35,ATM Fee,ATM Fee,Large relate enter.,Becker-Grant,expense,6
+2024-09-14,11.55,Entertainment,Gaming,Concert,AMC Theaters,expense,6
+2024-09-14,38.96,Subscription,Subscription,Something likely fly ever their.,Roth LLC,expense,6
+2024-09-15,2750.71,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-09-15,16.57,Food & Dining,Delivery,Dinner,DoorDash,expense,6
+2024-09-15,38.38,Transportation,Car Payment,Car payment,Shell,expense,6
+2024-09-15,4.56,Entertainment,Music,Concert,PlayStation Store,expense,6
+2024-09-16,1124.93,Housing,Mortgage,Mortgage payment,Landlord,expense,6
+2024-09-16,15.530927097964923,Shopping,Home Goods,Retail shopping,Amazon,expense,6
+2024-09-18,43.2,Transportation,Uber/Lyft,Parking fee,Uber,expense,6
+2024-09-18,148.19,Utilities,Phone,Phone bill,Water Company,expense,6
+2024-09-18,38.429250858349334,Shopping,Books,Retail shopping,Macys,expense,6
+2024-09-18,140.37,Healthcare,Pharmacy,Insurance,Kaiser Permanente,expense,6
+2024-09-20,34.31,Food & Dining,Fast Food,Coffee,Whole Foods,expense,6
+2024-09-20,6.01,ATM Fee,ATM Fee,Instead article policy each them.,Price PLC,expense,6
+2024-09-21,15.17,Entertainment,Sports,Movie tickets,Steam,expense,6
+2024-09-21,11.11,Other,Other,Reach red.,Young LLC,expense,6
+2024-09-23,10.23,Entertainment,Gaming,Movie tickets,Steam,expense,6
+2024-09-23,27.005363066192874,Shopping,Home Goods,Retail shopping,Best Buy,expense,6
+2024-09-24,35.15,ATM Fee,ATM Fee,Tv measure image.,Lawrence-Downs,expense,6
+2024-09-26,10.48874653483392,Shopping,Electronics,Online purchase,Amazon,expense,6
+2024-09-28,15.22,ATM Fee,ATM Fee,During anything join role.,Martinez and Sons,expense,6
+2024-09-29,30.303631554857517,Shopping,Books,Retail shopping,Walgreens,expense,6
+2024-09-30,13.24,Food & Dining,Delivery,Coffee,DoorDash,expense,6
+2024-09-30,39.59,Transportation,Car Payment,Parking fee,Chevron,expense,6
+2024-09-30,44.15,Transportation,Gas,Parking fee,Shell,expense,6
+2024-10-01,2739.43,Salary,Salary,Monthly salary payment,Tech Corp,income,6
+2024-10-01,11.16,Entertainment,Sports,Concert,Steam,expense,6
+2024-10-01,24.42,Shopping,Home Goods,Retail shopping,Macys,expense,6
+2024-10-01,27.18,Other,Other,Stand fear health later with.,Malone and Sons,expense,6
+2024-10-02,18.61,ATM Fee,ATM Fee,Consider lay will.,"Lane, Franklin and Stevenson",expense,6
+2024-10-03,10.06,Transportation,Public Transit,Gas fill-up,Honda Finance,expense,6
+2024-10-05,23.46,Other,Other,History doctor happen need that.,Long-Jones,expense,6
+2024-10-06,41.43,Subscription,Subscription,None that plant single.,Collins-Caldwell,expense,6
+2024-10-07,48.82,Transportation,Uber/Lyft,Parking fee,Honda Finance,expense,6
+2024-10-07,45.63,Bank Fee,Bank Fee,Area institution.,"Rivas, Pierce and Williams",expense,6
+2024-10-09,117.11,Healthcare,Insurance Premium,Doctor visit,CVS Pharmacy,expense,6
+2024-10-10,7.81,Food & Dining,Groceries,Coffee,Chipotle,expense,6
+2024-10-11,171.85,Utilities,Internet,Phone bill,PG&E,expense,6
+2024-10-11,19.85,Entertainment,Music,Subscription,Steam,expense,6
+2024-10-11,39.27,ATM Fee,ATM Fee,Question story consider education economy.,Hardy-Galvan,expense,6
+2024-10-11,30.47,ATM Fee,ATM Fee,Become popular should contain.,Wright Ltd,expense,6
+2024-10-12,10.66,Food & Dining,Fast Food,Dinner,Chipotle,expense,6
+2024-10-12,6.73,Shopping,Home Goods,Online purchase,CVS,expense,6
+2024-10-13,156.66,Utilities,Phone,Electric bill,PG&E,expense,6
+2024-10-14,25.85,Shopping,Clothing,Retail shopping,CVS,expense,6
+2024-10-15,2583.51,Salary,Salary,Monthly salary payment,Healthcare LLC,income,6
+2024-10-15,532.88,Freelance,Freelance,Freelance project payment,Client B,income,6
+2024-10-15,14.99,Entertainment,Gaming,Concert,PlayStation Store,expense,6
+2024-10-17,21.94,Food & Dining,Fast Food,Dinner,Whole Foods,expense,6
+2024-10-18,16.05,Food & Dining,Coffee,Dinner,Chipotle,expense,6
+2024-10-18,24.54,ATM Fee,ATM Fee,Important him open.,"Young, Turner and Simon",expense,6
+2024-10-22,27.5,Food & Dining,Fast Food,Lunch,Starbucks,expense,6
+2024-10-22,48.35,Transportation,Parking,Gas fill-up,Shell,expense,6
+2024-10-23,7.81,Entertainment,Streaming,Movie tickets,Steam,expense,6
+2024-10-23,37.06,Subscription,Subscription,Save cut bill.,"Schultz, Pineda and Rollins",expense,6
+2024-10-24,145.0,Utilities,Water,Electric bill,Verizon,expense,6
+2024-10-24,28.25,ATM Fee,ATM Fee,Use worker.,Cook LLC,expense,6
+2024-10-24,20.85,ATM Fee,ATM Fee,I send dinner here.,"Yates, Martin and Armstrong",expense,6
+2024-10-25,23.9,Transportation,Gas,Parking fee,Shell,expense,6
+2024-10-26,15.32,Transportation,Uber/Lyft,Car payment,Uber,expense,6
+2024-10-26,12.85,Entertainment,Streaming,Subscription,AMC Theaters,expense,6
+2024-10-26,5.39,Entertainment,Movies,Concert,Netflix,expense,6
+2024-10-26,20.65,Bank Fee,Bank Fee,Model civil light mouth.,Herrera LLC,expense,6
+2024-10-27,22.73,Shopping,Clothing,Retail shopping,Macys,expense,6
+2024-10-28,119.44,Healthcare,Dental,Insurance,CVS Pharmacy,expense,6
+2024-10-28,275.84,Travel,Car Rental,Hotel stay,Marriott,expense,6
+2024-10-30,1122.07,Housing,HOA Fees,Mortgage payment,Bank of America,expense,6
+2024-10-30,34.87,Food & Dining,Groceries,Dinner,Safeway,expense,6
+2024-10-30,14.78,Shopping,Personal Care,Personal items,CVS,expense,6
+2024-11-01,2737.87,Salary,Salary,Monthly salary payment,Tech Corp,income,6
+2024-11-02,7.971773334917344,Food & Dining,Groceries,Dinner,Starbucks,expense,6
+2024-11-04,1104.59,Housing,HOA Fees,Rent payment,Wells Fargo,expense,6
+2024-11-04,100.55,Utilities,Phone,Phone bill,Verizon,expense,6
+2024-11-04,36.3432173671148,Shopping,Personal Care,Retail shopping,Walgreens,expense,6
+2024-11-05,8.53,Transportation,Car Payment,Car payment,Uber,expense,6
+2024-11-05,84.96,Healthcare,Dental,Insurance,CVS Pharmacy,expense,6
+2024-11-06,12.13,Entertainment,Streaming,Movie tickets,AMC Theaters,expense,6
+2024-11-07,12.45,Entertainment,Movies,Concert,Netflix,expense,6
+2024-11-09,13.814250552511119,Shopping,Electronics,Online purchase,Walgreens,expense,6
+2024-11-09,30.55,ATM Fee,ATM Fee,Interest front catch.,Fleming-Haynes,expense,6
+2024-11-09,11.5,Bank Fee,Bank Fee,Through race enough.,Snyder-Robles,expense,6
+2024-11-11,15.41,Entertainment,Sports,Subscription,Steam,expense,6
+2024-11-11,4.51,Entertainment,Music,Concert,AMC Theaters,expense,6
+2024-11-12,23.119520256985147,Food & Dining,Coffee,Lunch,Uber Eats,expense,6
+2024-11-12,11.13,Transportation,Public Transit,Gas fill-up,Chevron,expense,6
+2024-11-13,28.78,ATM Fee,ATM Fee,Meet camera onto.,"Kelley, Mcdaniel and White",expense,6
+2024-11-15,2633.49,Salary,Salary,Monthly salary payment,Finance Inc,income,6
+2024-11-15,1105.67,Freelance,Freelance,Freelance project payment,Upwork,income,6
+2024-11-15,45.39,Transportation,Gas,Parking fee,Chevron,expense,6
+2024-11-15,3.67,Entertainment,Sports,Subscription,Steam,expense,6
+2024-11-16,1054.8,Housing,Property Tax,Rent payment,Bank of America,expense,6
+2024-11-17,89.82,Healthcare,Dental,Insurance,CVS Pharmacy,expense,6
+2024-11-19,24.207880578682833,Shopping,Electronics,Retail shopping,Amazon,expense,6
+2024-11-20,36.75,Transportation,Public Transit,Car payment,Honda Finance,expense,6
+2024-11-23,26.93,Bank Fee,Bank Fee,Tax travel hotel foreign.,Duncan-Hays,expense,6
+2024-11-25,1048.3,Housing,HOA Fees,Mortgage payment,Landlord,expense,6
+2024-11-26,17.352098619621387,Shopping,Home Goods,Online purchase,Amazon,expense,6
+2024-11-26,37.0,ATM Fee,ATM Fee,Too deal there.,Tate-Santiago,expense,6
+2024-11-27,15.341873086836811,Food & Dining,Fast Food,Dinner,Chipotle,expense,6
+2024-11-27,38.37,ATM Fee,ATM Fee,Beat at.,"Mcguire, Williams and Obrien",expense,6
+2024-11-28,144.19,Utilities,Internet,Internet bill,Comcast,expense,6
+2024-11-28,17.919758091133776,Shopping,Home Goods,Online purchase,Amazon,expense,6
+2024-11-29,13.567113329823625,Food & Dining,Fast Food,Dinner,Chipotle,expense,6
+2024-11-30,11.45,Entertainment,Music,Subscription,AMC Theaters,expense,6
+2024-11-30,18.63,ATM Fee,ATM Fee,Short already without.,Alexander LLC,expense,6
+2024-12-01,2667.99,Salary,Salary,Monthly salary payment,Tech Corp,income,6
+2024-12-01,1702.18,Freelance,Freelance,Freelance project payment,Client A,income,6
+2024-12-02,22.82,Other,Other,Increase Mr.,Jones Ltd,expense,6
+2024-12-02,45.77,Subscription,Subscription,Such may pattern around.,Faulkner-Smith,expense,6
+2024-12-04,4.16,Entertainment,Streaming,Movie tickets,Netflix,expense,6
+2024-12-04,17.58,Entertainment,Music,Concert,Netflix,expense,6
+2024-12-04,47.83,ATM Fee,ATM Fee,Respond any outside.,Grant-Patterson,expense,6
+2024-12-05,21.672171415514658,Food & Dining,Coffee,Lunch,Uber Eats,expense,6
+2024-12-06,53.37741637602356,Shopping,Electronics,Retail shopping,Best Buy,expense,6
+2024-12-06,8.08,Other,Other,Grow race image response.,"Nash, West and Anderson",expense,6
+2024-12-07,15.5,Transportation,Gas,Gas fill-up,Honda Finance,expense,6
+2024-12-07,120.96,Utilities,Phone,Internet bill,AT&T,expense,6
+2024-12-08,47.37,Subscription,Subscription,Few bag.,"Munoz, Hardy and Dickerson",expense,6
+2024-12-11,1035.69,Housing,Maintenance,Rent payment,Property Manager,expense,6
+2024-12-11,50.88854500905138,Food & Dining,Groceries,Grocery shopping,Chipotle,expense,6
+2024-12-12,1122.56,Housing,Mortgage,Mortgage payment,Property Manager,expense,6
+2024-12-13,48.85978841646276,Shopping,Books,Retail shopping,Amazon,expense,6
+2024-12-13,43.75,Subscription,Subscription,Support which.,Whitaker and Sons,expense,6
+2024-12-13,11.54,Bank Fee,Bank Fee,Parent attack decision.,Huang-Huerta,expense,6
+2024-12-14,20.702752969117846,Food & Dining,Restaurants,Dinner,McDonalds,expense,6
+2024-12-14,20.88493923033364,Shopping,Home Goods,Retail shopping,Target,expense,6
+2024-12-15,2609.34,Salary,Salary,Monthly salary payment,Tech Corp,income,6
+2024-12-15,904.34,Freelance,Freelance,Freelance project payment,Client A,income,6
+2024-12-18,52.77,Transportation,Public Transit,Parking fee,Metro,expense,6
+2024-12-18,14.91,Transportation,Parking,Gas fill-up,Chevron,expense,6
+2024-12-20,29.63010943488432,Food & Dining,Coffee,Coffee,Uber Eats,expense,6
+2024-12-20,29.81,Transportation,Public Transit,Gas fill-up,Honda Finance,expense,6
+2024-12-22,31.71608381000304,Food & Dining,Restaurants,Lunch,Whole Foods,expense,6
+2024-12-23,48.41092034482497,Food & Dining,Delivery,Coffee,Uber Eats,expense,6
+2024-12-23,9.63,Entertainment,Sports,Concert,AMC Theaters,expense,6
+2024-12-23,80.11,Healthcare,Doctor Visit,Doctor visit,CVS Pharmacy,expense,6
+2024-12-26,10.541477180293526,Shopping,Personal Care,Online purchase,Walgreens,expense,6
+2024-12-28,14.55,Entertainment,Streaming,Subscription,Netflix,expense,6
+2024-12-29,145.56,Utilities,Internet,Phone bill,Comcast,expense,6
+2024-12-30,1072.98,Housing,Rent,Mortgage payment,Landlord,expense,6
+2024-12-30,40.82,ATM Fee,ATM Fee,Anything kind major receive.,"Case, Mitchell and Gonzalez",expense,6
+2024-12-30,25.23,Bank Fee,Bank Fee,Reach this soon chair.,"Thompson, Bautista and Pena",expense,6
+2024-12-31,40.63,Transportation,Public Transit,Parking fee,Honda Finance,expense,6
+2024-12-31,9.43800958011947,Shopping,Electronics,Personal items,Macys,expense,6
+2024-12-31,37.009005314509764,Shopping,Clothing,Retail shopping,Best Buy,expense,6

@@ -1,0 +1,35 @@
+{
+  "economic_indicators": {
+    "CPI_All_Items": {
+      "current_value": 323.364,
+      "date": "2025-08-01"
+    },
+    "Consumer_Sentiment": {
+      "current_value": 58.2,
+      "date": "2025-08-01"
+    },
+    "Federal_Funds_Rate": {
+      "current_value": 4.22,
+      "date": "2025-09-01"
+    },
+    "Unemployment_Rate": {
+      "current_value": 4.3,
+      "date": "2025-08-01"
+    }
+  },
+  "market_sentiment": {
+    "overall_sentiment": 0.0,
+    "sentiment_description": "Neutral",
+    "key_topics": [
+      "economy"
+    ],
+    "news_count": 18,
+    "recent_headlines": [
+      "Stock Market Concern: Consumer Sentiment Is At Historic Low",
+      "Labor's housing fund is taking longer and costing more, but will it bear fruit?",
+      "Robert Kiyosaki Slams Warren Buffett's Gold and Silver U-Turn, Predicts Market Crash"
+    ]
+  },
+  "context_summary": "Employment is stable. Interest rates are moderate. Market sentiment is neutral. Key concerns include economy.",
+  "last_updated": "2025-10-05 18:19:37"
+}

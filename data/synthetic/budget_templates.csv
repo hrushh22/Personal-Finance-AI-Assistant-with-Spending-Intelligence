@@ -1,0 +1,40 @@
+income_level,income_min,income_max,category,recommended_percentage,is_essential
+Low,30000,50000,Housing,35,True
+Low,30000,50000,Food & Dining,15,True
+Low,30000,50000,Transportation,15,True
+Low,30000,50000,Utilities,8,True
+Low,30000,50000,Healthcare,5,True
+Low,30000,50000,Insurance,4,True
+Low,30000,50000,Entertainment,3,False
+Low,30000,50000,Shopping,5,False
+Low,30000,50000,Savings,10,False
+Medium,50000,80000,Housing,30,True
+Medium,50000,80000,Food & Dining,12,True
+Medium,50000,80000,Transportation,15,True
+Medium,50000,80000,Utilities,6,True
+Medium,50000,80000,Healthcare,4,True
+Medium,50000,80000,Insurance,3,True
+Medium,50000,80000,Entertainment,5,False
+Medium,50000,80000,Shopping,8,False
+Medium,50000,80000,Savings,15,False
+Medium,50000,80000,Travel,2,False
+High,80000,120000,Housing,25,True
+High,80000,120000,Food & Dining,10,True
+High,80000,120000,Transportation,12,True
+High,80000,120000,Utilities,5,True
+High,80000,120000,Healthcare,3,True
+High,80000,120000,Insurance,3,True
+High,80000,120000,Entertainment,7,False
+High,80000,120000,Shopping,10,False
+High,80000,120000,Savings,20,False
+High,80000,120000,Travel,5,False
+Very High,120000,200000,Housing,20,True
+Very High,120000,200000,Food & Dining,8,True
+Very High,120000,200000,Transportation,10,True
+Very High,120000,200000,Utilities,4,True
+Very High,120000,200000,Healthcare,3,True
+Very High,120000,200000,Insurance,3,True
+Very High,120000,200000,Entertainment,10,False
+Very High,120000,200000,Shopping,12,False
+Very High,120000,200000,Savings,25,False
+Very High,120000,200000,Travel,5,False

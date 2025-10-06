@@ -1,0 +1,12 @@
+{
+  "user_id": 6,
+  "username": "angelamiller",
+  "email": "laura31@example.net",
+  "monthly_income": 5373.0,
+  "financial_goals": "Emergency Fund",
+  "total_transactions": 453,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-31"
+  }
+}
